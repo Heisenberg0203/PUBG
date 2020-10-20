@@ -1,6 +1,6 @@
 # Playing PubG on Big Data 
 
-This repositary contains the code for workshop titled " Playing PubG on Big Data" which was conducted in *Scipy* 2018 conference. The workshop focused on use of Apache spark for Big Data processing. The 2 hour long workshop had two sessions.
+This repositary contains the code for workshop titled " Playing PubG on Big Data" which was conducted in #*Scipy 2018*# conference. The workshop focused on use of Apache spark for Big Data processing. The 2 hour long workshop had two sessions.
 
 1. Introduction to Big Data and Apache Spark
 
